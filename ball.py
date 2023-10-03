@@ -41,23 +41,6 @@ class Ball(Turtle):
 
 
 
-#Angle of bounce off of top and bottom walls should be identical, so if self.heading == 45 then bounce angle
-
-        # x_cor = [-400, 400]
-        # y_cor = random.randint(-300, 300)
-        # for i in x_cor:
-        #     self.setheading(45)
-        #     time.sleep(0.5)
-        #     screen.tracer(0)
-        #     screen.update()
-        #     self.forward(100)
-
-
-
-# x_cor = [-400, 400]
-# y_cor = random.randint(-300, 300)
-# for i in x_cor:
-#     self.goto(i, y_cor)
 
 
 
